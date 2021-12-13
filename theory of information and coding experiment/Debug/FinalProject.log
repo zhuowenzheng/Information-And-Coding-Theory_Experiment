@@ -1,0 +1,5 @@
+﻿  FinalProject.cpp
+D:\Administrator\Desktop\21春 Dues\信息论\FinalProject\FinalProject.cpp(766,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Administrator\Desktop\21春 Dues\信息论\FinalProject\FinalProject.cpp(776,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Administrator\Desktop\21春 Dues\信息论\FinalProject\FinalProject.cpp(838,14): warning C4101:  “HuffTree”: 未引用的局部变量
+  FinalProject.vcxproj -> D:\Administrator\Desktop\21春 Dues\信息论\FinalProject\Debug\FinalProject.exe
